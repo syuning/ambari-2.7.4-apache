@@ -2,5 +2,6 @@
 /docs/
 /resources/
 /dev-support/
-/targert/
+/target/
 /classes/
+.DS_Store
